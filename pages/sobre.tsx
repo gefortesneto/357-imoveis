@@ -1,1 +1,5 @@
-// pages/sobre.tsx - conteúdo de exemplo
+import React from 'react';
+
+export default function Page() {
+  return <div>Sobre Nós</div>;
+}
