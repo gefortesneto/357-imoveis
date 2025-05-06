@@ -1,1 +1,1 @@
-// next.config.js - conteúdo de exemplo
+module.exports = { reactStrictMode: true };
